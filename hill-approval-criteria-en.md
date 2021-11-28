@@ -58,7 +58,7 @@ Rules marked as **[REAL]**, **[RETRO]** or **[FICTIONAL]** may be applied only t
     1. Hills that do not have any artificial lighting must have XML element Time set properly to ensure that no competitions will take place in darkness.
     
 6. Flag
-    1. Flag is a optional element of hill. It may be hidden by author.
+    1. Flag is a optional element of hill. It may be hidden by author. When hidden, following flag rules don't apply.
     2. Flag must be not too big. It should not fall down too much with strong wind (2.0 m/s).
     3. Flag should not pass through other visible elements of hill, excluding flag pole.
     4. Flag design must reflect country where hill is located.
