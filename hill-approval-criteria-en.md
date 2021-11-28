@@ -160,7 +160,7 @@ Rules marked as **[REAL]**, **[RETRO]** or **[FICTIONAL]** may be applied only t
     7. **[REAL, RETRO]** If downhill of real-life hill is elevated over ground, it must be elevated in game using profile dhill-terrain.
     8. Adjustments of dhill-terrain and inrun-terrain should be used only for elevation adjustment to inrun tower and downhill.
     9. Elevated downhill should not flicker with terrain.
-    10. If there is no downhill elevation over ground level visible, profile dhill-terrain must not be defined, unless there is justified need for removal of downhill measurers.
+    10. If there is no downhill elevation over ground level visible, profile dhill-terrain should not be defined, unless there is justified need for removal of downhill measurers.
     
 2. Trees
     1. Trees must not block ski jumper view during jump.
