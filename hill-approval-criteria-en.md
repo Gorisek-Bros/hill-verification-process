@@ -80,7 +80,7 @@ Rules marked as **[REAL]**, **[RETRO]** or **[FICTIONAL]** may be applied only t
     1. Custom startgate camera (F5) must be placed close to available startgates.
     2. Custom takeoff camera (F6) must be placed close to takeoff.
     3. **[REAL, RETRO]** Custom judgetower camera (F7) must be placed inside of judgetower, or outside of it if it will be used to resemble realistic TV camera view.
-    4. Custom grandstand camera (F8) must be placed behind fall line of hill, inside or close to downhill zone.
+    4. Custom grandstand camera (F8) should be placed behind fall line of hill, inside or close to downhill zone.
     5. View from all custom cameras must be not blocked by any elements, such as fences, trees, or buildings.
     
 10. Plastic
