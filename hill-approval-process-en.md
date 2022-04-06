@@ -73,6 +73,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 2. After uploading new hill version, all verifications are be removed from hill.
 3. Hill may be approved by Team member when hill gets 3 verifications from different Team members at the same time.
 4. Hill author will be informed about receiving Approved status via email.
+5. Hill inspector must not verify a hill which is authored by the same hill inspector.
 
 
 ## 7. Revoking Approved status
