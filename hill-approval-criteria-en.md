@@ -117,8 +117,8 @@ Rules marked as **[REAL]**, **[RETRO]** or **[FICTIONAL]** may be applied only t
     1. Downhill profile must follow a common downhill curve. It must contain only one knoll, one landing zone and one outrun which may be sloped.
     2. K point of hill must be lower or equal than its HS. Hills that do not have HS or its value is unknown, must have HS set to same value as K point.
     3. K point of hill must be greater than its automatically generated P point.
-    4. Hill Size must be set to value between 20 and 350 meters.
-    5. Hill Size should be set to value between 40 and 300 meters.
+    4. Hill Size must be set to value between 20 and 350 meters and should be set to value between 40 and 300 meters.
+    5. The difference between K point and Hill Size must be lower than 1/3rd of K point distance.
     6. Start gates must be distributed in a way that will allow for longer jumps with front winds than with tail wind in ascending order from best conditions.
     7. Start gates distribution must allow for reasonably safe landing in best conditions (avoid original Bad Mitterndorf HS200).
     8. Downhill profile must not allow for excessive wobbling and losing control in flight due to too high air pressure mid-flight.
