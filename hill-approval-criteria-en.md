@@ -119,7 +119,7 @@ Rules marked as **[REAL]**, **[RETRO]** or **[FICTIONAL]** may be applied only t
     3. K point of hill must be greater than its automatically generated P point.
     4. Hill Size must be set to value between 20 and 350 meters.
     5. Hill Size should be set to value between 40 and 300 meters.
-    6. Start gates must be distributed in a way that will allow for longer jumps with front winds than with tail wind in ascending order.
+    6. Start gates must be distributed in a way that will allow for longer jumps with front winds than with tail wind in ascending order from best conditions.
     7. Start gates distribution must allow for reasonably safe landing in best conditions (avoid original Bad Mitterndorf HS200).
     8. Downhill profile must not allow for excessive wobbling and losing control in flight due to too high air pressure mid-flight.
     9. Hill profile and start gates distribution should allow to reach K point with any gate available in World Cup mode. This does not apply to RETRO hills without HS value.
