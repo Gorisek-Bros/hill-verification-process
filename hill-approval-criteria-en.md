@@ -1,7 +1,7 @@
 Hill Approval Criteria
 ======================
 
-Version: 1
+Version: 1.0.2
 
 Valid from: 2021-11-27
 
