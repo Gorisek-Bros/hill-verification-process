@@ -15,8 +15,6 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 * **Hill author** – DSJ24.PL user who uploaded the hill. In case of collaborative work, it should be person who made the most work from all co-authors. 
 * **Hill co-author** – person that was involved into collaborative hill creation, but did not upload it.
-* **Winter season** – period of the year with high interest of Ski Jumping and DSJ4 (between 1st of October and 31st of March)
-* **Off-season** – period opposite to Winter Season (between 1st of April and 30th of September)
 
 
 ## 2. Hill statuses
