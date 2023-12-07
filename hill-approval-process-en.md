@@ -58,7 +58,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 4. Team members must follow latest version of Hill Approval Criteria during hill inspection.
 5. Inspection must be conducted on the latest version of hill available on DSJ24.PL.
 6. Inspection must be conducted using latest released game version (available on Mediamond.fi).
-7. Inspection must be followed with a filled template containing all inspection measures.
+7. Inspection must be followed with a filled template containing all inspection measures, posted in dedicated section on DSJ24.PL Discord server.
 8. Template for inspection is included in *Hill Approval Criteria*.
 9. Any suggestions and issues found by Team members must be forwarded to hill author.
 10. Inspection result may be forwarded to hill author in their preferred language.
