@@ -70,7 +70,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 1. In case if Team member does not have any objections or suggestions regarding inspected hill, they may mark the hill internally as verified.
 2. After uploading new hill version, all verifications are be removed from hill.
-3. Hill may be approved by Team member when hill gets 3 verifications from different Team members at the same time.
+3. Hill may be approved by DSJ24.PL admin when hill gets 3 verifications from different Team members at the same time.
 4. Hill author will be informed about receiving Approved status via email.
 5. Hill inspector must not verify a hill which is authored by the same hill inspector.
 
