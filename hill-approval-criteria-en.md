@@ -1,9 +1,11 @@
 Hill Approval Criteria
 ======================
 
-Version: 1.0.2
+Version: 1.1
 
 Valid from: 2021-11-27
+
+Version 1.1 valid from: 2023-12-08
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119 - https://datatracker.ietf.org/doc/html/rfc2119.
 
@@ -256,3 +258,30 @@ Rules marked as **[REAL]**, **[RETRO]** or **[FICTIONAL]** may be applied only t
 3. Custom text and images on downhill
     1. Placing text or images made of markings (lines, twigs, spray) is allowed.
     2. Text or images made of markings must be simplified as much as possible.
+
+## VII. Hill verification template
+
+- [ ] Hill version is properly set.
+- [ ] Hill does not cause any game crashes or intended changes to ski jumper during playing, including jumping from lowest or highest gates available in Training mode.
+- [ ] Hill file size does not exceed 2MB.
+- [ ] Hill has correct type.
+- [ ] Hill has correct name.
+- [ ] Hill has provided screenshots.
+- [ ] Author field is filled.
+- [ ] Location and timezone is correct.
+- [ ] Weather is set accordingly.
+- [ ] Time is set accordingly.
+- [ ] Flag is correct and set accordingly.
+- [ ] Judgetower or judgetower camera is set correctly.
+- [ ] Plastic is set accordingly.
+- [ ] Custom cameras are set accordingly.
+- [ ] Hill is lit up correctly.
+- [ ] Windflags are set accordingly.
+- [ ] Takeoff banner is set accordingly.
+- [ ] Downhill fence is set accordingly.
+- [ ] Inrun profile is correct.
+- [ ] Downhill profile is correct.
+- [ ] Terrain profile and elements are correct.
+- [ ] Lines and labels are set correctly.
+- [ ] Construction elements are correctly placed and optimized.
+- [ ] Visibility of the jumper is not obstructed from F1, F2 cameras during jumping.
