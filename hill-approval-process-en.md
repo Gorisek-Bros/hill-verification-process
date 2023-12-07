@@ -4,6 +4,7 @@ Hill Approval Process
 Version: 1.1
 
 Valid from: 2021-11-27
+
 Version 1.1 valid from: 2023-12-08
 
 This document describes process of Verification, Approval, Ranking and Upgrading Custom Hills uploaded to DSJ24.PL.
