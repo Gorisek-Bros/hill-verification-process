@@ -261,6 +261,10 @@ Rules marked as **[REAL]**, **[RETRO]** or **[FICTIONAL]** may be applied only t
 
 ## VII. Hill verification template
 
+1. Template must be used for every verification process.
+2. Template must include all points marked as *completed* or *to fix* with provided context (text or screenshots).
+3. Template must conclude if hill is *approved* or *rejected*
+
 - [ ] Hill version is properly set.
 - [ ] Hill does not cause any game crashes or intended changes to ski jumper during playing, including jumping from lowest or highest gates available in Training mode.
 - [ ] Hill file size does not exceed 2MB.
@@ -285,3 +289,4 @@ Rules marked as **[REAL]**, **[RETRO]** or **[FICTIONAL]** may be applied only t
 - [ ] Lines and labels are set correctly.
 - [ ] Construction elements are correctly placed and optimized.
 - [ ] Visibility of the jumper is not obstructed from F1, F2 cameras during jumping.
+
