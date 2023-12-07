@@ -1,9 +1,10 @@
 Hill Approval Process
 =====================
 
-Version: 1
+Version: 1.1
 
 Valid from: 2021-11-27
+Version 1.1 valid from: 2023-12-08
 
 This document describes process of Verification, Approval, Ranking and Upgrading Custom Hills uploaded to DSJ24.PL.
 
@@ -41,15 +42,12 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 1. Hill Inspection Team is a volunteer team responsible for verification and approval of hills uploaded to DSJ4.
 2. Hill Inspection Team is managed by DSJ24.PL admins.
-3. Active hillmakers and DSJ4 players may request joining the Team at any moment of the Winter Season by sending an email or contacting Team members via Discord with brief description about how they can help in the Team. Each application will be treated individually.
-4. Initially, Team members consists of active hillmakers and DSJ24.PL admins.
-5. Team members must be available and verified on DSJ24.PL Discord Server.
-6. Team members may resign from Team at any time.
-7. Team members may be removed from Team after for the following reasons:
-    1. No activity during Winter Season
-    2. Low quality of hill inspections
-    3. Multiple violations of Hill Approval Process, Hill Approval Criteria, DSJ24.PL Terms of Service, DSJ24.PL Discord Server rules
-    4. Inappropriate behavior on public discussion communities
+3. Hill Inspection Team consists of all hillmakers who has at least one verified hill.
+4. Team members must be available and verified on DSJ24.PL Discord Server.
+5. Team members may be removed from Team after for the following reasons:
+    1. Low quality of hill inspections
+    2. Multiple violations of Hill Approval Process, Hill Approval Criteria, DSJ24.PL Terms of Service, DSJ24.PL Discord Server rules
+    3. Inappropriate behavior on public discussion communities
 
 
 ## 5. Hill inspection
@@ -60,18 +58,20 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 4. Team members must follow latest version of Hill Approval Criteria during hill inspection.
 5. Inspection must be conducted on the latest version of hill available on DSJ24.PL.
 6. Inspection must be conducted using latest released game version (available on Mediamond.fi).
-7. Any suggestions and issues found by Team members must be forwarded to hill author.
-8. Inspection result may be forwarded to hill author in their preferred language.
-9. Hill inspector may include suggestions that are not included in *Hill Approval Criteria*, but will improve profile or appearance of the hill. 
-10. After applying suggestions and uploading new hill version, Team member must inspect the hill once again. Further inspection may be less detailed as previous ones and may be focused on elements that have been modified.
-11. In case if Team member has objections or suggestions to reviewed hill, hill author must fix all issues or put some explanation why they cannot be applied.
+7. Inspection must be followed with a filled template containing all inspection measures.
+8. Template for inspection is included in *Hill Approval Criteria*.
+9. Any suggestions and issues found by Team members must be forwarded to hill author.
+10. Inspection result may be forwarded to hill author in their preferred language.
+11. Hill inspector may include suggestions that are not included in *Hill Approval Criteria*, but will improve profile or appearance of the hill. 
+12. After applying suggestions and uploading new hill version, Team member must inspect the hill once again. Further inspection may be less detailed as previous ones and may be focused on elements that have been modified.
+13. In case if Team member has objections or suggestions to reviewed hill, hill author must fix all issues or put some explanation why they cannot be applied.
 
 
 ## 6. Verification and Approval process
 
 1. In case if Team member does not have any objections or suggestions regarding inspected hill, they may mark the hill internally as verified.
 2. After uploading new hill version, all verifications are be removed from hill.
-3. Hill may be approved by Team member when hill gets 2 verifications from different Team members at the same time.
+3. Hill may be approved by Team member when hill gets 3 verifications from different Team members at the same time.
 4. Hill author will be informed about receiving Approved status via email.
 5. Hill inspector must not verify a hill which is authored by the same hill inspector.
 
