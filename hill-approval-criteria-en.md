@@ -21,7 +21,7 @@ Rules marked as **[REAL]**, **[RETRO]** or **[FICTIONAL]** may be applied only t
     3. Only the latest uploaded version of hill may be subject of verification.
     4. Hill must be playable in the latest released DSJ4 version.
     5. Hill must not cause any game crashes or not intended changes to ski jumper during playing, including jumping from lowest or highest gates available in Training mode.
-    6. Hill file size must not exceed 2MB.
+    6. Hill file size must not exceed 3MB.
     
 2. Hill type
     1. Hill must be assigned to correct hill type available on DSJ24.PL.
