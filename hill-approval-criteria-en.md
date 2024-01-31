@@ -233,7 +233,7 @@ Rules marked as **[REAL]**, **[RETRO]** or **[FICTIONAL]** may be applied only t
     2. Inrun tower should contain a visible entrance available from ground level.
     3. Stairs and walkaways placed over ground level, should be covered with proper railings.
     4. Appearance of hill should be significantly different from other hills and should not be a copy of a real hill. Hills that are part of fictional complex may be similar to each other.
-    5. Apeearance of hill must be significantly different from tutorial template hill.
+    5. Appearance of hill must be significantly different from tutorial template hill.
 
 
 ## VI. Downhill elements
