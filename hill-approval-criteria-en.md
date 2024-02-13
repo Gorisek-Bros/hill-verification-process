@@ -252,7 +252,7 @@ Rules marked as **[REAL]**, **[RETRO]** or **[FICTIONAL]** may be applied only t
     1. Custom lines, if used, should be placed on exactly same distances as on the real-life hill.
     2. Winter markings layout should be based on layout that was used in recent main events.
     3. Summer markings layout should be based on layout that is currently being in use, or was the latest layout ever used.
-    4. Markings layout of hills that do not have plastic downhill in real life, should have layout as simple as possible. Using default markings or same layout as in winter are recommended options.
+    4. Markings layout of hills that do not have plastic downhill in real life, should have layout as simple as possible or / and should be comparable to what was used on other hills with plastic during that time period. Using default markings or same layout as in winter are recommended options.
     5. In case if during recent main event lines were barely visible, completely invisible, earlier or default layout should be used.
     6. Hills that do not have plastic downhill in real life must not be covered entirely with grass or other material.
     
