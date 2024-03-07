@@ -100,7 +100,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 2. Team members may perform an additional inspection of updated version of Ranked Hill, using same rules as for new hill verification and approval.
 3. Team members must follow latest version of Hill Approval Criteria and Hill Approval Process during hill inspection.
 4. Updated version of Ranked hill must have exactly same profile as the originally Ranked hill version.
-5. After getting verified by at least 3 Team members, latest hill version will get Ranked status.
+5. After getting verified by at least 2 Team members or 1 DSJ24.PL admin, latest hill version will get Ranked status.
 6. Upgraded hill will be identified in game with the same value, as first ranked version of the hill.
 
 
