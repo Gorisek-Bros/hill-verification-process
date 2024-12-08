@@ -1,11 +1,11 @@
 Hill Approval Criteria
 ======================
 
-Version: 1.1
+Version: 1.2
 
 Valid from: 2021-11-27
 
-Version 1.1 valid from: 2023-12-08
+Version 1.2 valid from: 2024-12-08
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119 - https://datatracker.ietf.org/doc/html/rfc2119.
 
@@ -192,9 +192,9 @@ Rules marked as **[REAL]**, **[RETRO]** or **[FICTIONAL]** may be applied only t
     2. Hill construction elements should be implemented in a way that will allow small adjustments of profile without having to put too much effort to fix them.
     
 2. Optimization
-    1. Number of rendered vertices generated in DSJ4 should not exceed 300000. Limit may be increased for hills that contain complex structures or high level of detail.
+    1. Number of rendered vertices generated in DSJ4 must not exceed 500000. Limit may be increased for hills that contain complex structures or high level of detail.
     2. Hill file should be optimized as much as possible, keeping XML source file readable by humans.
-    3. Hill file size should not exceed 512kB. Limit may be increased for hills that contain complex structures or high level of detail.
+    3. Hill file size must not exceed 512kB. Limit may be increased for hills that contain complex structures or high level of detail.
     4. Number of edges defined in Beams and beamgroups should be as low as possible. For narrow poles or fences, maximum of 8 should be used. To imitate a circular shape, use attribute smooth="true".
     5. Faces that are meant to be invisible or covered by other construction elements should be turned off if possible.
     
@@ -234,6 +234,7 @@ Rules marked as **[REAL]**, **[RETRO]** or **[FICTIONAL]** may be applied only t
     3. Stairs and walkaways placed over ground level, should be covered with proper railings.
     4. Appearance of hill should be significantly different from other hills and should not be a copy of a real hill. Hills that are part of fictional complex may be similar to each other.
     5. Appearance of hill must be significantly different from tutorial template hill.
+    6. Appearance of hill must allow for jumping in safe conditions. Hill must not show any major signs of neglection which would result in closing the hill in real life.
 
 
 ## VI. Downhill elements
