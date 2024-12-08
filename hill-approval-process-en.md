@@ -1,11 +1,11 @@
 Hill Approval Process
 =====================
 
-Version: 1.1
+Version: 1.2
 
 Valid from: 2021-11-27
 
-Version 1.1 valid from: 2023-12-08
+Version 1.2 valid from: 2024-12-08
 
 This document describes process of Verification, Approval, Ranking and Upgrading Custom Hills uploaded to DSJ24.PL.
 
@@ -52,7 +52,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 ## 5. Hill inspection
 
 1. Finished hills in status Created are inspected by Team members.
-2. It is highly recommended to hill authors to ask other non-Team players for feedback, playtests and reviews before applying for hill inspection.
+2. It is required to hill authors to ask other non-Team players for feedback, playtests and reviews before applying for hill inspection.
 3. Team member may refuse to conduct an inspection of hill.
 4. Team members must follow latest version of Hill Approval Criteria during hill inspection.
 5. Inspection must be conducted on the latest version of hill available on DSJ24.PL.
@@ -69,7 +69,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 ## 6. Verification and Approval process
 
 1. In case if Team member does not have any objections or suggestions regarding inspected hill, they may mark the hill internally as verified.
-2. After uploading new hill version, all verifications are be removed from hill.
+2. After uploading new hill version, all verifications are removed from hill.
 3. Hill may be approved by DSJ24.PL admin when hill gets 3 verifications from different Team members at the same time.
 4. Hill author will be informed about receiving Approved status via email.
 5. Hill inspector must not verify a hill which is authored by the same hill inspector.
@@ -90,7 +90,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 1. Approved hills gets Ranked status manually by Mediamond.
 2. Ranked status cannot be rolled back to Approved or Created. There may be special cases which will require revoking Ranked status, but each case will be treated separately.
-3. It is recommended to mark hill as ranked at least 7 days after getting latest Approved status. This will be helpful with gathering more feedback from other players about hill profile.
+3. Hill must be marked as ranked at least 7 days after getting latest Approved status. This will be helpful with gathering more feedback from other players about hill profile.
 4. After marking hill as Ranked, it will be identified by checksum of first ranked version of the hill.
 
 
