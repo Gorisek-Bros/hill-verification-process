@@ -131,13 +131,14 @@ Rules marked as **[REAL]**, **[RETRO]** or **[FICTIONAL]** may be applied only t
 2. **[REAL, RETRO]** Reproducing real profiles
     1. Hills with homologation available should have exactly same parameters as in the document unless there is an other source that suggests a better approach in converting the profile to DSJ4.
     2. In case of no homologation available, hill profile must be recreated as precise as possible using other available sources.
-    3. Expected World Record distance in DSJ4 should correlate to real hill record or longest jump performed during official competitions.
+    3. Expected World Record distance in DSJ4 must be set within range 100% to 102% of real hill record or longest jump performed during official competitions. Range may be extended up to 105% if needed.
     
 3. **[FICTIONAL]** Designing fictional profiles
     1. Downhill profile should not allow for too high flight trajectory which could be considered as dangerous in real life.
     2. Downhill and inrun curves must be smooth enough to not allow any excessive bounces or falls.
     3. Hill profile should be substantially different from already verified hills and should not be a copy of a real hill profile.
     4. Hill profile must allow average players to regularly score points. There should be no situation that majority of players score zero points during the competition.
+    5. Hill record must be set within range of 100% to 110% of HS.
     
 4. Inrun guardrail
     1. Inrun guardrail must be set to ensure that ski jumper will not clip through elements of the inrun.
