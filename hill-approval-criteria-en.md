@@ -1,11 +1,11 @@
 Hill Approval Criteria
 ======================
 
-Version: 1.2
+Version: 1.3
 
 Valid from: 2021-11-27
 
-Version 1.2 valid from: 2024-12-08
+Version 1.3 valid from: 2025-02-24
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119 - https://datatracker.ietf.org/doc/html/rfc2119.
 
