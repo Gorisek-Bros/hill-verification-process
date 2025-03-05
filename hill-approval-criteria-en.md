@@ -1,11 +1,11 @@
 Hill Approval Criteria
 ======================
 
-Version: 1.3
+Version: 1.4
 
 Valid from: 2021-11-27
 
-Version 1.3 valid from: 2025-02-24
+Version 1.4 valid from: 2025-03-05
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119 - https://datatracker.ietf.org/doc/html/rfc2119.
 
@@ -131,7 +131,7 @@ Rules marked as **[REAL]**, **[RETRO]** or **[FICTIONAL]** may be applied only t
 2. **[REAL, RETRO]** Reproducing real profiles
     1. Hills with homologation available should have exactly same parameters as in the document unless there is an other source that suggests a better approach in converting the profile to DSJ4.
     2. In case of no homologation available, hill profile must be recreated as precise as possible using other available sources.
-    3. Expected World Record distance in DSJ4 must be set within range 100% to 102% of real hill record or longest jump performed during official competitions. Range may be extended up to 105% if needed.
+    3. Expected World Record distance in DSJ4 must be set within range 100% to 102% of longest official hill record from highest available rank competition in any discipline. Longest jump performed in trainings may be used as a record if there was no other significant data provided. Range may be extended up to 105% if needed.
     
 3. **[FICTIONAL]** Designing fictional profiles
     1. Downhill profile should not allow for too high flight trajectory which could be considered as dangerous in real life.
